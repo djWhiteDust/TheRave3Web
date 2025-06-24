@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/TheRave3Web/static/css/main.f995f655.css",
-    "main.js": "/TheRave3Web/static/js/main.e65dcaea.js",
+    "main.js": "/TheRave3Web/static/js/main.6c6f1de9.js",
     "static/js/451.a41f82d0.chunk.js": "/TheRave3Web/static/js/451.a41f82d0.chunk.js",
     "static/js/453.cfd6be88.chunk.js": "/TheRave3Web/static/js/453.cfd6be88.chunk.js",
     "static/media/image1.jpeg": "/TheRave3Web/static/media/image1.21e6371756be5aa199f1.jpeg",
     "static/media/image3.jpeg": "/TheRave3Web/static/media/image3.6b7324f9277498f1e520.jpeg",
     "static/media/image2.jpeg": "/TheRave3Web/static/media/image2.499befe08ad91b47970b.jpeg",
     "static/media/cartelRifa.png": "/TheRave3Web/static/media/cartelRifa.02a56b5ead6d46a037b2.png",
-    "static/media/RIFA.png": "/TheRave3Web/static/media/RIFA.498e36f60dcef728d997.png",
+    "static/media/RIFA.png": "/TheRave3Web/static/media/RIFA.47b8bad8b9634952314f.png",
     "static/media/diseño_PDF.png": "/TheRave3Web/static/media/diseño_PDF.bf0495fb9db1f3bc58f4.png",
     "static/media/MapaComoLlegar.png": "/TheRave3Web/static/media/MapaComoLlegar.02bb74c77410721042b9.png",
     "static/media/titulo.png": "/TheRave3Web/static/media/titulo.85e5a448eade5cbdb7da.png",
     "index.html": "/TheRave3Web/index.html",
     "main.f995f655.css.map": "/TheRave3Web/static/css/main.f995f655.css.map",
-    "main.e65dcaea.js.map": "/TheRave3Web/static/js/main.e65dcaea.js.map",
+    "main.6c6f1de9.js.map": "/TheRave3Web/static/js/main.6c6f1de9.js.map",
     "451.a41f82d0.chunk.js.map": "/TheRave3Web/static/js/451.a41f82d0.chunk.js.map",
     "453.cfd6be88.chunk.js.map": "/TheRave3Web/static/js/453.cfd6be88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f995f655.css",
-    "static/js/main.e65dcaea.js"
+    "static/js/main.6c6f1de9.js"
   ]
 }
